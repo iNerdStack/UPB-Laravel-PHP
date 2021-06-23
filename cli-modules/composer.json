@@ -1,0 +1,18 @@
+{
+    "name": "cli-stack/modules",
+    "description": "cli modules / dependencies used in laravel php",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ajetunmobi Isaac",
+            "email": "isaacajetunmobi@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CliStack\\Modules\\": "src/"
+        }
+    },
+    "require": {}
+}
