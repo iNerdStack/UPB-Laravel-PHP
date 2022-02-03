@@ -1,2 +1,2 @@
 # Laravel-PHP-CLI-Server
-A simple server to test and review use of cli dependencies in backend application
+A simple test case scenario for paravon in Laravel PHP. This is to test independent cli dependencies in backend application.
